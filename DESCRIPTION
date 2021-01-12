@@ -1,0 +1,11 @@
+Package: tester
+Type: Package
+Title: Test New R Packages 
+Version: 0.1.0
+Author: Phenyo Moletsane <moletsanephenyo232@gmail.com>
+Maintainer: Phenyo Moletsane  <moletsanephenyo232@gmail.com>
+Description: Provides functionality for my package.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
