@@ -11,3 +11,9 @@ LazyData: true
 RoxygenNote: 7.1.1
 URL: https://github.com/spenduelar/tester
 BugReports: https://github.com/spenduelar/tester/issues
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
+Imports: 
+    tibble
