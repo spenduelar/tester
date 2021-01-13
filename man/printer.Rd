@@ -17,3 +17,6 @@ A tibble
 \description{
 Printer function
 }
+\examples{
+printer(x=rnorm(5), r=rnorm(5))
+}

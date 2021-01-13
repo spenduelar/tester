@@ -3,3 +3,5 @@
 export(hello)
 export(printer)
 importFrom(tibble,as_data_frame)
+importFrom(utils,dist)
+importFrom(utils,head)

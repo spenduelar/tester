@@ -9,6 +9,8 @@
 status](https://travis-ci.com/spenduelar/tester.svg?branch=master)](https://travis-ci.com/spenduelar/tester)
 [![AppVeyor build
 status](https://ci.appveyor.com/api/projects/status/github/spenduelar/tester?branch=master&svg=true)](https://ci.appveyor.com/project/spenduelar/tester)
+[![Codecov test
+coverage](https://codecov.io/gh/spenduelar/tester/branch/master/graph/badge.svg)](https://codecov.io/gh/spenduelar/tester?branch=master)
 <!-- badges: end -->
 
 The goal of tester is to Provides functionality for my package.
